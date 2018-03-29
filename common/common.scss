@@ -1,5 +1,5 @@
 html{
-	font-family: 'Roboto',sans-serif;
+    font-family: 'Roboto',sans-serif;
 }
 
 .topic-list-item:nth-child(even) {
@@ -11,12 +11,14 @@ html{
 }
 
 .btn {
-    display: block;
     font-size: 14px;
     font-weight: bold;
     text-align: center;
-    text-decoration: none;
-    text-transform: uppercase;
-    padding: 8px 16px;
-    border: 1px;
+    display: inline-block;
+    margin: 0;
+    padding: 6px 12px;
+    line-height: 1.2;
+    text-align: center;
+    cursor: pointer;
+    transition: all .25s;
 }
