@@ -1,0 +1,22 @@
+html{
+	font-family: 'Roboto',sans-serif;
+}
+
+.topic-list-item:nth-child(even) {
+    background-color: #ffffff;
+}
+
+.topic-list-item:nth-child(odd) {
+    background-color: #e7f0f9;
+}
+
+.btn {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 8px 16px;
+    border: 1px;
+}

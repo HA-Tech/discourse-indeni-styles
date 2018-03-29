@@ -1,0 +1,23 @@
+{
+  "name": "Indeni Footer",
+  "about_url": "http://indeni.com",
+  "license_url": "http://indeni.com",
+   "assets": {
+       "indeni_logo": "assets/indeni_logo.svg",
+   },
+   "color_schemes": {
+       "Indeni Default": {
+          "primary": "1a3159",
+          "secondary": "ffffff",
+          "tertiary": "45a9dd",
+          "quaternary": "45a9dd",
+          "header_background": "1a3159",
+          "header_primary": "ffffff",
+          "highlight": "45a9dd",
+          "danger": "e45735",
+          "success": "009900",
+          "love": "fa6c8d"
+        }
+    }
+
+}
