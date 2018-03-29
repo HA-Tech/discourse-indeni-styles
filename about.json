@@ -1,10 +1,7 @@
 {
-  "name": "Indeni Footer",
+  "name": "Indeni Styles",
   "about_url": "http://indeni.com",
   "license_url": "http://indeni.com",
-   "assets": {
-       "indeni_logo": "assets/indeni_logo.svg",
-   },
    "color_schemes": {
        "Indeni Default": {
           "primary": "1a3159",
