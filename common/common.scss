@@ -10,6 +10,14 @@ html{
     background-color: #e7f0f9;
 }
 
+.latest-topic-list-item:nth-child(even) {
+    background-color: #ffffff;
+}
+
+.latest- topic-list-item:nth-child(odd) {
+    background-color: #e7f0f9;
+}
+
 .btn {
     font-size: 14px;
     font-weight: bold;
@@ -22,3 +30,14 @@ html{
     cursor: pointer;
     transition: all .25s;
 }
+
+.category-list{
+    tbody{
+        tr:nth-child(even){
+            background-color: #ffffff;            
+        }
+        tr:nth-child(even){
+            background-color: #e7f0f9;            
+        }
+    }  
+} 
