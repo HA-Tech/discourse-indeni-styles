@@ -14,7 +14,7 @@ html{
     background-color: #ffffff;
 }
 
-.latest- topic-list-item:nth-child(odd) {
+.latest-topic-list-item:nth-child(odd) {
     background-color: #e7f0f9;
 }
 
@@ -41,3 +41,7 @@ html{
         }
     }  
 } 
+
+.d-header-icons .icon:hover {
+    background-color: #59667d;
+}
