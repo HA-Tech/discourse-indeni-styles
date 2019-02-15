@@ -34,10 +34,13 @@ html{
 .category-list{
     tbody{
         tr:nth-child(even){
-            background-color: #ffffff;            
+            background-color: #1fa9e1;            
         }
         tr:nth-child(even){
             background-color: #e7f0f9;            
         }
     }  
 } 
+.show-experts-homepage #banner, .knowledge-explorer #banner {
+    display: none;
+}
